@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151259107035370718/e7882dcd54c9467fa8f76785e80fedf4/artifacts
+end_time: 1729649768049
+entry_point_name: ''
+experiment_id: '151259107035370718'
+lifecycle_stage: active
+run_id: e7882dcd54c9467fa8f76785e80fedf4
+run_name: whimsical-eel-476
+run_uuid: e7882dcd54c9467fa8f76785e80fedf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729649763839
+status: 3
+tags: []
+user_id: carva

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1729649767621
+current_stage: None
+description: ''
+last_updated_timestamp: 1729649767621
+name: First MLFlow experiment
+run_id: e7882dcd54c9467fa8f76785e80fedf4
+run_link: ''
+source: mlflow-artifacts:/151259107035370718/e7882dcd54c9467fa8f76785e80fedf4/artifacts/iris_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/151259107035370718/e7882dcd54c9467fa8f76785e80fedf4/artifacts/iris_model
+user_id: null
+version: 1
